@@ -1,0 +1,14 @@
+15;Junior;34;ViaMilano;3400
+7;Riccardo;34;ViaNapoli;34000
+14;Danilo;43;ViaEnna;1000
+11;Kikko;33;ViaSolmi;950
+1;Ramesh;32;Ahmedabad;2000
+2;Khilan;25;Delhi;1500
+3;kaushik;23;Kota;2000
+4;Chaitali;25;Mumbai;6500
+6;Komal;22;MP;4500
+8;Mario;45;ViaRoma;23000
+10;Oliver;78;ViaLivorno;5000
+12;Kevin;33;ViaDoria;4000
+13;Holly;21;ViaSavona;2000
+9;Tiziano;45;ViaFirenze;70000
